@@ -2,11 +2,6 @@
 
 This skill enables AI agents to work on long-running projects across multiple sessions.
 
-## Authors
-
-- **YonghaoZhao722** - Initial work
-- **Anthropic Claude** - Code implementation via Claude Code CLI
-
 ## Purpose
 
 The longrunning-agent skill provides a structured workflow for:
